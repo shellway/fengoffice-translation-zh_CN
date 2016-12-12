@@ -2,4 +2,4 @@
 
 Chinese Simplified translation for fengoffice
 by Shellway He
-email: shellwayhe@qq.com
+email: shellway@qq.com
