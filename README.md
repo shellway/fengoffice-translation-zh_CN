@@ -1,5 +1,4 @@
-# FengOffice Translation Chinese Simplified
+# FengOffice简体中文语言包
 
-Chinese Simplified translation for fengoffice
-by Shellway He
-email: shellway@qq.com
+作者：Shellway He
+邮件：shellway@qq.com
