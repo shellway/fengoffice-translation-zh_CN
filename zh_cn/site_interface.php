@@ -1,5 +1,5 @@
 ﻿<?php return array(
-	'footer powered' => 'Powered by <a target="_blank" href="{0}">{1}</a>，系统汉化：<a href="mailto:shellwayhe@163.com" target="_blank">Shellway He</a>，<a href="http://blog.shellway.cn" target="_blank">我的博客</a>',
+	'footer powered' => 'Powered by <a target="_blank" href="{0}">{1}</a>，系统汉化：<a href="mailto:shellwayhe@163.com" target="_blank">Shellway He</a>，<a href="http://shellway.cn" target="_blank">我的博客</a>',
 	'charts' => '图表',
 	'contacts' => '联系人',
 	'dashboard' => '开始页',
